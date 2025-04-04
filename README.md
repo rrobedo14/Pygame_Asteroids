@@ -10,11 +10,12 @@ You can install the required dependencies by running:
 
 ```bash
 pip install -r requirements.txt
+```
 
-Game Description
+## Game Description
 The player controls a spaceship that can move around the screen and shoot lasers to destroy asteroids. The objective is to avoid colliding with asteroids and destroy as many as possible.
 
-Files
+## Files
 asteroid.py: Handles asteroid mechanics.
 
 asteroidfield.py: Generates the field and positions asteroids.
@@ -31,7 +32,7 @@ shot.py: Defines the laser shot objects and their behavior.
 
 requirements.txt: Lists the Python dependencies (e.g., Pygame).
 
-How to Play
+## How to Play
 Run the game by executing main.py.
 
 Use the arrow keys or WASD to move your spaceship.
